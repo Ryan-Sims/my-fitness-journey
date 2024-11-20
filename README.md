@@ -1,2 +1,2 @@
-# My_Fitness_Journey
+# My Fitness Journey (WIP)
 A dive into the data behind my fitness journey.
